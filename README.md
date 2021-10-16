@@ -5,7 +5,7 @@ A ridesharing analysis and visualization
 
 
 ### Results:
-PyBer_fare_summary.png
+![Total Fares by City Type](analysis/PyBer_fare_summary.png)
 
 ### Summary:
 Based on the above analysis, I would make the following recommendations:
